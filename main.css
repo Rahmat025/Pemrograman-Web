@@ -1,0 +1,50 @@
+
+.header{
+    background-color: springgreen;
+    height: 90px;
+}
+
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 20px;
+}
+
+.header-list li{
+    list-style: none;
+    float: right;
+    padding: 33px 20px;
+}
+
+.main{
+    background-color: skyblue;
+    height: 600px;
+}
+
+.main span{
+    color: red;
+}
+
+.main h1{
+    font-size: 90px;
+    padding: 90px;
+}
+
+.footer{
+    background-color: springgreen;
+    height: 150px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    list-style: none;
+    padding-bottom: 20px;
+}
